@@ -1,0 +1,9 @@
+$ git config --glboal user.mail "lucianoleandrog@gmail.com"
+
+rungot config --glboal user.mail "lucianoleandrog@gmail.com"
+
+$ git config --global user.name "Luciano Galeano"
+
+git config --global user.mail "lucianoleandrog@gmail.com"
+
+https://optimistic-bohr-1e13bb.netlify.app
